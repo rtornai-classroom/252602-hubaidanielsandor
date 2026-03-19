@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+F:\Egyetem\ComputerGraph\Beadando1\x64\Release\Beadando1.exe : fatal error LNK1120: 1 unresolved externals
